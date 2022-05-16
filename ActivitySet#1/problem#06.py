@@ -2,15 +2,21 @@
 
 largest = None
 smallest = None
+sum = None
 
 while True:
-    num = input("Enter a number? ")
-
-    if num == "done":
+    n = input("Enter a number? ")
+    if n == "done":
         break
+    try:
+        num = int(n)
+        if largest is None or num > largest:
+            largest = num
+        if smallest is None or num < smallest:
+            smallest = num
+    except:
+        print('Invalid input')
 
-    # ...
 
-    print(num)
-
-print("Maximum", largest)
+print("Maximum is", largest)
+print("Minimum is", smallest)
