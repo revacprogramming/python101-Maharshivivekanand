@@ -9,7 +9,7 @@ for line in fh:
         continue
     if line.startswith("X-DSPAM-Confidence:"):
         
-		m=line.find('0')
+		m=line.find('0.')
    	 	maggy=float(line[m:])
     total=total+maggy
     count=count+1
