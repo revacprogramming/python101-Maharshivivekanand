@@ -3,10 +3,10 @@ fname = input("Enter file name: ")
 if len(fname) < 1:
     fname = "mbox-short.txt"
 
-fh = open(fname)
+maharshi = open(fname)
 h=list()
 count = 0
-for line in fh:
+for line in maharshi:
     if not line.startswith("From "):
         
         continue
