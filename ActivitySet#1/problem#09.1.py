@@ -10,7 +10,7 @@ for line in maharshi:
     if not line.startswith("From "):
         
         continue
-    if line.startswith("From"):
+    if line.startswith("From "):
         #print(m)
         maggy=line.split()
         print(maggy[1])
