@@ -1,6 +1,6 @@
 # Dictionaries..
 
-name = input("Enter file:")
+name = input("Enter file: ")
 if len(name) < 1:
     name = "mbox-short.txt"
 maggy = open(name)
