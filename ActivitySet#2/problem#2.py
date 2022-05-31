@@ -4,7 +4,7 @@ def add(a, b):
 
 
 def output(a, b, sum):
-    pass  # ...
+    pass 
 
 
 def main():
