@@ -6,7 +6,7 @@ def add(a, b):
 
 
 def main():
-    a = int(input('enterv a number'))
+    a = int(input('enterv a number, '))
     b = int(input('enter a number'))
 
     c = add(a, b)
