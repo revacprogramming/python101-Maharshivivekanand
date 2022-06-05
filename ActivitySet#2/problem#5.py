@@ -5,7 +5,7 @@ def get_cs():
 
 
 def cs_to_dict(cs):
-    """convert connect string to a dictionary"""
+    """convert connect string  to a dictionary"""
 
 
 def dict_to_cs(d):
