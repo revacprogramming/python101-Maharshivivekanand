@@ -1,5 +1,5 @@
 def get_cs():
-    return input('enter a string')
+    return input('enter  a string')
 def cs_to_dict(cs):
     maharshi = {}
     m=cs.split(";")
