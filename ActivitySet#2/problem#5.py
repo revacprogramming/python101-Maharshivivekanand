@@ -19,10 +19,10 @@ def dict_to_cs(d):
 
     return maggy
 def main():
-    cs = get_cs()
+    cs = get_ cs()
     d = cs_to_dict(cs) # convert connect string to a dictionary
     print(d)
     cs = dict_to_cs(d)
     print(cs)
 if __name__ == '__main__':
-    main()
+    main() in
