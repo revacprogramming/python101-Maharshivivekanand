@@ -4,7 +4,7 @@ fh = open(fname)
 count=0
 total=0
 for line in fh:
-    if not line.startswith("X-DSPAM-Confidence:"):
+    if not line.startswith("X-DSPAM-Conf idence:"):
         
         continue
     if line.startswith("X-DSPAM-Confidence:"):
