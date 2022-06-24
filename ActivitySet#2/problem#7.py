@@ -1,7 +1,7 @@
 
 
 class Menu:
-    """fill in class definition here"""
+    """fill in cla  ss definition here"""
 
 
 m = Menu()
