@@ -1,6 +1,7 @@
 
 
 class Menu:
+  pass
     """fill in cla  ss definition here"""
 
 

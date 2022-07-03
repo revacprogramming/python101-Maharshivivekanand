@@ -23,4 +23,4 @@ for word,s in maharshi.items():
         biggest=s
         bigword=word
 print(bigword,biggest)
-        
+        hu
