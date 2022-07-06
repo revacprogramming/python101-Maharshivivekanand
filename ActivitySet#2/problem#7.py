@@ -2,7 +2,11 @@
 
 class Menu:
   pass
-    """fill in cla  ss definition here"""
+ def __add__(self,item,rate)   
+
+def __sub__(self,item,rate)
+.  print("rate"
+
 
 
 m = Menu()
