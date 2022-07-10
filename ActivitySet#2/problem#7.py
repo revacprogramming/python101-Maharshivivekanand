@@ -1,11 +1,10 @@
 
 
 class Menu:
-  pass
- def __add__(self,item,rate)   
+  def 
+  def __add__(self,item,rate)   
 
-def __sub__(self,item,rate)
-.  print("rate"
+  def __sub__(self,item,rate)
 
 
 

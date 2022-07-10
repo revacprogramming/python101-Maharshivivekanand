@@ -1,6 +1,3 @@
-"""
-this program didn't work - kept getting 404. Ended up using Firebug to manually examine the headers
-"""
 
 import socket
 
