@@ -1,7 +1,7 @@
 
 
 class Menu:
-  def 
+  def __init__()
   def __add__(self,item,rate)   
 
   def __sub__(self,item,rate)

@@ -1,7 +1,11 @@
 
 
 class Menu:
+  def __init__(self,item,rate):
+    self.item = item
+    self.rate = rate
     """fill in class definiti on here"""
+  
 
 
 m = Menu()
