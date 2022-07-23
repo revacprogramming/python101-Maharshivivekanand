@@ -1,4 +1,4 @@
-
+import math
 def anallyse_the_area(x1, y1, x2, y2, x3, y3):
     base = round((sqrt(pow((x2 - x1), 2) + pow(y2 - y1, 2))),1)
     height = round((sqrt(pow(x3 - x1, 2) + pow(y3 - y1, 2))),1)
